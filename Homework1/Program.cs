@@ -36,7 +36,8 @@ namespace Homework1
                 else
                 {
                     match = true;
-                    Console.WriteLine("Yay, you guessed!");
+                    Console.WriteLine("Yay, you guessed! Merry Christmas");
+
                 }
             }
         }
